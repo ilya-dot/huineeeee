@@ -1,0 +1,21 @@
+.button_download{
+    background-color: #0f5132;
+    border: none;
+    color: #f0f0f0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: color, transform, 500ms ease;
+}
+
+.button_download:hover{
+    transform: scale(1.5);
+}
+
+.text_someeee{
+    color: #0f5132;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    word-break: break-word;
+    word-break: break-all;
+}
